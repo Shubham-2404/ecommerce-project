@@ -1,0 +1,44 @@
+#footer {
+  padding: 70px 70px 0 70px;
+  display: flex;
+  justify-content: space-around;
+  background: lightgray;
+  gap: 5rem;
+}
+
+#footer .col img {
+  width: 9rem;
+  margin: 1rem 0 1.5rem 0;
+}
+
+.follow h4 {
+  color: #088178;
+}
+
+.follow div {
+  display: flex;
+  margin: 1rem 0;
+  gap: 1rem;
+}
+
+.about {
+  margin-top: 1rem;
+}
+
+.install {
+  margin-top: 1rem;
+}
+
+.account {
+  margin-top: 1rem;
+}
+
+.googleStore,
+.appStore {
+  width: 6rem;
+  height: 2.3rem;
+}
+
+.payment-gateway img {
+  width: 15rem;
+}
